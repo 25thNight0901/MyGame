@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/tenzi/MyGame/Accretian_Empire/Accretian_Empire/Content/Controls/button.png","C:/Users/tenzi/MyGame/Accretian_Empire/Accretian_Empire/Content/bin/DesktopGL/Content/Controls/button.xnb","TextureProcessor","Texture2DContent",8443,50549,0.129688
+"C:/Users/tenzi/MyGame/Accretian_Empire/Accretian_Empire/Content/Fonts/GameFont.spritefont","C:/Users/tenzi/MyGame/Accretian_Empire/Accretian_Empire/Content/bin/DesktopGL/Content/Fonts/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0.073699
