@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Accretian_Empire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90b250deabcffdba294149ef46c88009ba52db06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7283732c0790a5a09a3c723c3fe599eb8cf8c55f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Accretian_Empire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Accretian_Empire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

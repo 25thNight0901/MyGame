@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tenzi\\MyGame\\Accretian_Empire\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E3F89-30DD-4115-A226-ACCA76FC4D8C}|Accretian_Empire\\Accretian_Empire.csproj|c:\\users\\tenzi\\mygame\\accretian_empire\\accretian_empire\\controls\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E3F89-30DD-4115-A226-ACCA76FC4D8C}|Accretian_Empire\\Accretian_Empire.csproj|solutionrelative:accretian_empire\\controls\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E3F89-30DD-4115-A226-ACCA76FC4D8C}|Accretian_Empire\\Accretian_Empire.csproj|c:\\users\\tenzi\\mygame\\accretian_empire\\accretian_empire\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E3F89-30DD-4115-A226-ACCA76FC4D8C}|Accretian_Empire\\Accretian_Empire.csproj|solutionrelative:accretian_empire\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E3F89-30DD-4115-A226-ACCA76FC4D8C}|Accretian_Empire\\Accretian_Empire.csproj|c:\\users\\tenzi\\mygame\\accretian_empire\\accretian_empire\\states\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E3F89-30DD-4115-A226-ACCA76FC4D8C}|Accretian_Empire\\Accretian_Empire.csproj|solutionrelative:accretian_empire\\states\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E3F89-30DD-4115-A226-ACCA76FC4D8C}|Accretian_Empire\\Accretian_Empire.csproj|c:\\users\\tenzi\\mygame\\accretian_empire\\accretian_empire\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E3F89-30DD-4115-A226-ACCA76FC4D8C}|Accretian_Empire\\Accretian_Empire.csproj|solutionrelative:accretian_empire\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E3F89-30DD-4115-A226-ACCA76FC4D8C}|Accretian_Empire\\Accretian_Empire.csproj|c:\\users\\tenzi\\mygame\\accretian_empire\\accretian_empire\\states\\menustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E3F89-30DD-4115-A226-ACCA76FC4D8C}|Accretian_Empire\\Accretian_Empire.csproj|solutionrelative:accretian_empire\\states\\menustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\tenzi\\MyGame\\Accretian_Empire\\Accretian_Empire\\Controls\\Button.cs",
+              "RelativeDocumentMoniker": "Accretian_Empire\\Controls\\Button.cs",
+              "ToolTip": "C:\\Users\\tenzi\\MyGame\\Accretian_Empire\\Accretian_Empire\\Controls\\Button.cs",
+              "RelativeToolTip": "Accretian_Empire\\Controls\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:08:57.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\tenzi\\MyGame\\Accretian_Empire\\Accretian_Empire\\Component.cs",
+              "RelativeDocumentMoniker": "Accretian_Empire\\Component.cs",
+              "ToolTip": "C:\\Users\\tenzi\\MyGame\\Accretian_Empire\\Accretian_Empire\\Component.cs",
+              "RelativeToolTip": "Accretian_Empire\\Component.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:08:47.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\tenzi\\MyGame\\Accretian_Empire\\Accretian_Empire\\States\\GameState.cs",
+              "RelativeDocumentMoniker": "Accretian_Empire\\States\\GameState.cs",
+              "ToolTip": "C:\\Users\\tenzi\\MyGame\\Accretian_Empire\\Accretian_Empire\\States\\GameState.cs",
+              "RelativeToolTip": "Accretian_Empire\\States\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:06:05.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\tenzi\\MyGame\\Accretian_Empire\\Accretian_Empire\\States\\State.cs",
+              "RelativeDocumentMoniker": "Accretian_Empire\\States\\State.cs",
+              "ToolTip": "C:\\Users\\tenzi\\MyGame\\Accretian_Empire\\Accretian_Empire\\States\\State.cs",
+              "RelativeToolTip": "Accretian_Empire\\States\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:05:58.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuState.cs",
+              "DocumentMoniker": "C:\\Users\\tenzi\\MyGame\\Accretian_Empire\\Accretian_Empire\\States\\MenuState.cs",
+              "RelativeDocumentMoniker": "Accretian_Empire\\States\\MenuState.cs",
+              "ToolTip": "C:\\Users\\tenzi\\MyGame\\Accretian_Empire\\Accretian_Empire\\States\\MenuState.cs",
+              "RelativeToolTip": "Accretian_Empire\\States\\MenuState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:05:40.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
